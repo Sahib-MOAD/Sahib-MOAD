@@ -14,7 +14,7 @@
 ![PyQt5](https://img.shields.io/badge/-PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 📌 Projets en cours
+## 📌 Projets 
 
 - 🛡️ IPView – Application PyQt5 pour afficher l’IP publique et privée
 - 🎮 Morpion – Jeu Tic-Tac-Toe avec interface graphique en Python
