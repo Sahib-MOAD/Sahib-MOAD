@@ -17,4 +17,4 @@
 ## 📌 Projets 
 
 - 🛡️ IPView – Application PyQt5 pour afficher l’IP publique et privée
-- 🎮 Morpion – Jeu Tic-Tac-Toe avec interface graphique en Python
+
