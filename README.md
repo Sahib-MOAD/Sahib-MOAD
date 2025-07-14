@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Moad SAHIB
 
-<!--
-**Sahib-MOAD/Sahib-MOAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Gestion des Réseaux & Sécurité Informatique à EST-D  
+🔐 Passionné par la cybersécurité, le développement Python et l'automatisation  
+💡 Je travaille sur des projets personnels pour apprendre et évoluer  
+📫 Contact : moaadsahib@gmail.com  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Outils
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PyQt5](https://img.shields.io/badge/-PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## 📌 Projets en cours
+
+- 🛡️ IPView – Application PyQt5 pour afficher l’IP publique et privée
+- 🎮 Morpion – Jeu Tic-Tac-Toe avec interface graphique en Python
